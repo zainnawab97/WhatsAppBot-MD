@@ -50,7 +50,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 
-var ownernum = ['0','447405935355']
+var ownernum = ['0','923074060856']
 //-------------
 
 
@@ -77,15 +77,15 @@ global.APIKeys = {
    
    //---------------------------------------------------------------------
 
-   global.sudo = ['447405935355']
+   global.sudo = ['923074060856']
    //-------------
-   global.owner = ['447405935355']
+   global.owner = ['923074060856']
 
    //---------------------------------------------------------------------
    
-   global.packname = 'ＡＬＩＥＮ' 
+   global.packname = '𝐙𝐀𝐈𝐍✯𝐍𝐚𝐰𝐚𝐛𝐙𝐚𝐚𝐃𝐚𝐚✯𝘽𝙊𝙏👑' 
    //-------------
-   global.author = 'ＡＬＦＡ'
+   global.author = '𝐙𝐀𝐈𝐍'
 
    //---------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ global.APIKeys = {
 
    global.linkbuttid2 = 'ʏᴏᴜᴛᴜʙᴇ'
    //-------------
-   global.butturl2 = 'https://youtube.com/c/alienalfa'
+   global.butturl2 = 'https://youtu.be/TnUAvasM-1k'
    
    //---------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ global.APIKeys = {
 
    global.linktext = 'ꜱᴜʙꜱᴄʀɪʙᴇ ᴛᴏ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ'
    //-------------
-   global.linkurl = 'https://youtube.com/c/alienalfa'
+   global.linkurl = 'https://youtu.be/TnUAvasM-1k'
    
    //---------------------------------------------------------------------
 
@@ -129,7 +129,7 @@ global.APIKeys = {
 
    //--------------------- MAIN IMAGE  ------------------------
 
-   global.profileimage = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.profileimage = 'https://i.imgur.com/j8Eqv2q.jpeg'
       
    //---------------------------------------------------------------------
 
@@ -137,7 +137,7 @@ global.APIKeys = {
 
    //--------------------- URL IMAGE  ------------------------
 
-   global.mainimgurl = 'https://github.com/Alien-alfa/Alien-alfa/blob/beta/Alfa.jpg?raw=true'
+   global.mainimgurl = 'https://i.imgur.com/j8Eqv2q.jpeg'
       
    //---------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ global.APIKeys = {
    
    global.mlinktxt1 = 'ʜᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʙᴏᴛ'
    //-------------
-   global.mlinkurl1 = 'https://youtube.com/c/alienalfa'
+   global.mlinkurl1 = 'https://youtu.be/TnUAvasM-1k'
    //------------- 
    
  //------ URL BUTTON 2 -----
@@ -185,7 +185,7 @@ global.APIKeys = {
 //============ MAIN ============//
 
 //-------------
-global.premium = [`${ownernum}`]
+global.premium = [`${923074060856}`]
 //-------------
 global.sessionName = 'session.alfa'
 //-------------
@@ -193,17 +193,17 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 //-------------
 global.sp = '𒆜'
 //-------------
-global.devname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.devname = '𝐙𝐀𝐈𝐍'
 //-------------
-global.devNum = ['447405935355']
+global.devNum = ['923074060856']
 //-------------
 global.greetings = 'Hey  👋🏻'
 //-------------
 global.listicon = '✩' 
 //-------------
-global.wm = 'ＡＬＩＥＮ ＡＬＦＡ' 
+global.wm = '𝐙𝐀𝐈𝐍'
 //-------------
-global.botname = 'ＡＬＩＥＮ ＡＬＦＡ'
+global.botname = '𝐙𝐀𝐈𝐍✯𝐍𝐚𝐰𝐚𝐛𝐙𝐚𝐚𝐃𝐚𝐚✯𝘽𝙊𝙏'
 //-------------
 global.icon = '✩' 
 //-------------
@@ -215,9 +215,9 @@ global.github = 'https://github.com/Alien-alfa/'
 //-------------
 global.insta = 'https://www.instagram.com/alienalfa/' 
 //-------------
-global.linkname = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼'
+global.linkname = '𝐙𝐀𝐈𝐍'
 //-------------
-global.mainfooter = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' 
+global.mainfooter = '𝐙𝐀𝐈𝐍✯𝐍𝐚𝐰𝐚𝐛𝐙𝐚𝐚𝐃𝐚𝐚✯𝘽𝙊𝙏' 
 //-------------
 global.herokuapi = '' 
 //-------------
@@ -230,7 +230,7 @@ global.herokuapp = ''
 //============ Modz ============//
 
 //-------------
-global.welcomeactive =  true
+global.welcomeactive =  false
 //-------------
 global.alivemess = false
 //-------------
